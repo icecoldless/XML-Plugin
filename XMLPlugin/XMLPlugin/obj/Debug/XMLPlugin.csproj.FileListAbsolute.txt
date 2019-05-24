@@ -1,0 +1,10 @@
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\bin\Debug\XMLPlugin.exe.config
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\bin\Debug\XMLPlugin.exe
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\bin\Debug\XMLPlugin.pdb
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\obj\Debug\XMLPlugin.csprojAssemblyReference.cache
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\obj\Debug\XMLPlugin.FrmMain.resources
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\obj\Debug\XMLPlugin.Properties.Resources.resources
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\obj\Debug\XMLPlugin.csproj.GenerateResource.cache
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\obj\Debug\XMLPlugin.csproj.CoreCompileInputs.cache
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\obj\Debug\XMLPlugin.exe
+E:\Program\Unity\asset\plugin\我的插件\XMLPlugin\XMLPlugin\obj\Debug\XMLPlugin.pdb
